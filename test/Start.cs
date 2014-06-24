@@ -8,6 +8,8 @@ namespace test
 		{
 			Console.WriteLine ("Hallo Welt");
 			Console.ReadLine ();
+			Ausgabe a = new Ausgabe ();
+			Console.ReadKey ();
 		}
 	}
 }

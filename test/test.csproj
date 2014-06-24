@@ -31,5 +31,6 @@
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
     <Compile Include="Start.cs" />
+    <Compile Include="Ausgabe.cs" />
   </ItemGroup>
 </Project>
