@@ -6,10 +6,8 @@ namespace test
 	{
 		public static void Main (string[] args)
 		{
-			Console.WriteLine ("Hallo");
+			Console.WriteLine ("Hallo Welt");
 			Console.ReadLine ();
-			Console.WriteLine ("sdg");
-			Console.ReadKey ();
 		}
 	}
 }
